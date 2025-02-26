@@ -4,7 +4,7 @@
 using namespace std;
 
 void showMenu() {
-    cout << "\nBank Customer Service Queue:\n"
+    cout << "\nBank Customer Service Queue:\n"#
          << "1. Add Priority Customer\n"
          << "2. Add Regular Customer\n"
          << "3. Serve Next Priority\n"
