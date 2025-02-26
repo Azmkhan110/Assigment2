@@ -1,0 +1,3 @@
+C:/Users/Azm Khan/CLionProjects/assign/cmake-build-debug/CMakeFiles/assign.dir
+C:/Users/Azm Khan/CLionProjects/assign/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Azm Khan/CLionProjects/assign/cmake-build-debug/CMakeFiles/rebuild_cache.dir
