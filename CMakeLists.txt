@@ -3,5 +3,5 @@ project(assign)
 
 set(CMAKE_CXX_STANDARD 20)
 
-# Add both main.cpp and Deque.cpp as source files
+# Adds both main.cpp and Deque.cpp as source files
 add_executable(assign main.cpp Deque.cpp)
